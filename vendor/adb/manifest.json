@@ -1,0 +1,35 @@
+{
+  "version": "37.0.1",
+  "files": [
+    {
+      "name": "adb.exe",
+      "size": 8273560,
+      "sha256": "b4a6b455702684652cccf7b46258b29e653538904359a58fd4931cf3ef286b3f"
+    },
+    {
+      "name": "AdbWinApi.dll",
+      "size": 108184,
+      "sha256": "c1d653030b4bde65d3e07e4d0b0979e17be56df1436cdd15528630f27808050d"
+    },
+    {
+      "name": "AdbWinUsbApi.dll",
+      "size": 73368,
+      "sha256": "0710e894d9b40f71a670c13c694079d564c92c1279da382cfe4850983aaebe1b"
+    },
+    {
+      "name": "libwinpthread-1.dll",
+      "size": 243016,
+      "sha256": "f2044c755e39efc5d47f47c5a942178dd6d79dc8945bb182dc8753d10e2a4269"
+    },
+    {
+      "name": "NOTICE.txt",
+      "size": 1154131,
+      "sha256": "38ec8c6f5b7799c223ffeab1f9e81c2d5fc67b5e56d6424f649630ca1ee1a811"
+    },
+    {
+      "name": "source.properties",
+      "size": 38,
+      "sha256": "2dccd788c0234d8cf7f7457377e57f57527a86a629c6ed54feb8af0f549dac38"
+    }
+  ]
+}
